@@ -1,0 +1,12 @@
+
+2026-10-23 09:00:00 INFO Server started successfully
+2026-10-23 09:01:12 WARNING High memory usage detected
+2026-10-23 09:02:05 ERROR Database connection failed
+2026-10-23 09:02:30 ERROR Database connection failed
+2026-10-23 09:03:15 INFO User login successful
+2026-10-23 09:04:00 WARNING Disk space running low
+2026-10-23 09:05:10 ERROR Request timed out
+2026-10-23 09:06:20 INFO Server health check passed
+
+2026-10-23 09:07:00 ERROR Database connection failed
+this is not a valid log entry
